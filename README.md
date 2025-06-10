@@ -1,69 +1,65 @@
-## 🛠️ Languages & Tools
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff&style=flat)
-
-<!--# 👋 Hi there, I'm Aman Kumar! 
-🎓 **Student** at Sir M. Visvesvaraya Institute of Technology (2nd year, Electronics & Telecommunications)
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm <span style="color:#2F80ED">Aman Kumar</span>!</h1>
+<h3 align="center">Student | Tech Explorer | Community Helper</h3>
 
 ---
 
-## 🚀 About Me
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aman-kumar-239920273" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/amansharma264" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://brainly.in/app/profile/aman-sharma-264" target="_blank">
+    <img src="https://img.shields.io/badge/-Brainly-3575E6?style=for-the-badge&logo=brainly&logoColor=white"/>
+  </a>
+</p>
 
-- 🌱 Passionate about exploring new technologies and sharing knowledge with others
-- 💡 I love to learn, build, and help fellow students grow
-- 🤝 Proficient Moderator at **Brainly India**:  
+---
+
+## About me
+
+- 🎓 **Second year student** at Sir M. Visvesvaraya Institute of Technology (Electronics & Telecommunications)
+- 👨‍💻 Passionate about web development, backend, and exploring new technologies
+- 🌱 Always eager to learn and share knowledge with others
+- 🧑‍🏫 **Proficient Moderator at Brainly India:**  
   - Solved **5,700+** answers  
   - Helped **10M+** students
+- 🏏 I enjoy playing cricket and badminton  
+- 🧘 Like to spend time alone or with my favourite people
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages and Tools
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Node.js, MySQL, MongoDB, CRUD operations
-- **Programming:** C++ with Data Structures & Algorithms, OOPs in C++
-- **Others:** Community moderation, collaborative problem-solving
-
----
-
-## 🌟 Featured Projects
-
-- **Airbnb Projects (with Backend):**  
-  _Building a full-stack Airbnb clone with Node.js and database integration_
-
-- **OTP Generation Tool:**  
-  _Created a secure OTP system using HTML, CSS, and JavaScript_
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff"/>
+</p>
 
 ---
 
-## 📚 Education
+## 🚧 Currently Working On
 
-- **Sir M. Visvesvaraya Institute of Technology**  
-  2nd Year, Electronics & Telecommunications
-
----
-
-## 💬 Fun Facts
-
-- 🏸 I enjoy playing cricket and badminton
-- 🌱 Love spending time with myself or my favorite people
+- 🏠 **Airbnb project (with backend)**
+- 🔒 **OTP generation tool** using HTML, CSS, and JavaScript
 
 ---
 
-## 🔗 Connect with Me
+## 📈 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/aman-kumar-239920273)
-- [Twitter / X](https://x.com/amansharma264)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amansharma264&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma264&layout=compact&theme=radical" height="165"/>
+</p>
 
 ---
 
 _“Striving to learn, grow, and help others on the journey!”_
-
-
-
