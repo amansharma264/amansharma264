@@ -59,6 +59,7 @@
 
 - 🏠 **Airbnb project (with backend)**
 - 🔒 **OTP generation tool** using HTML, CSS, and JavaScript
+- 🧩 Solving DSA questions on [LeetCode](https://leetcode.com/u/amansharma264/), [GeeksforGeeks](https://www.geeksforgeeks.org/user/amansharma264/), and [Codeforces](https://codeforces.com/profile/amansharma264)
 
 ---
 
