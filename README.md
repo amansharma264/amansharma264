@@ -12,8 +12,17 @@
   <a href="https://x.com/amansharma264" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://brainly.in/app/profile/aman-sharma-264" target="_blank">
+  <a href="https://brainly.in/profile/amansharma264-7405793" target="_blank">
     <img src="https://img.shields.io/badge/-Brainly-3575E6?style=for-the-badge&logo=brainly&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/amansharma264/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/amansharma264/" target="_blank">
+    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/profile/amansharma264" target="_blank">
+    <img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
 </p>
 
