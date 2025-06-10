@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--# 👋 Hi there, I'm Aman Kumar!
-
+<!--# 👋 Hi there, I'm Aman Kumar! 
 🎓 **Student** at Sir M. Visvesvaraya Institute of Technology (2nd year, Electronics & Telecommunications)
 
 ---
