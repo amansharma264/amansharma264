@@ -78,34 +78,27 @@
   <tr>
     <td align="center">
       <a href="https://leetcode.com/amansharma264/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/><br/>
-        <b>LeetCode</b>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/>
       </a>
-      <br>
+      <br><b>LeetCode</b><br>
       <img src="https://leetcard.jacoblin.cool/amansharma264" alt="LeetCode Stats"/>
     </td>
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/amansharma264/">
-        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" alt="GFG"/><br/>
-        <b>GeeksforGeeks</b>
+        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" alt="GeeksforGeeks"/>
       </a>
-      <br>
-      <!-- Replace the below link with a working GFG stats card if available -->
+      <br><b>GeeksforGeeks</b><br>
       <img src="https://gfg-stats-api.herokuapp.com/?user=amansharma264" alt="GFG Stats"/>
     </td>
     <td align="center">
       <a href="https://codeforces.com/profile/amansharma264">
-        <img src="https://sta.codeforces.com/s/59547/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/><br/>
-        <b>Codeforces</b>
+        <img src="https://sta.codeforces.com/s/59547/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/>
       </a>
-      <br>
-      <!-- Replace the below link with a working Codeforces stats card if available -->
+      <br><b>Codeforces</b><br>
       <img src="https://cf-leaderboard-api.vercel.app/api/card?handle=amansharma264" alt="Codeforces Stats"/>
     </td>
   </tr>
 </table>
-
----
 
 ### 👁️ Profile Views
 
