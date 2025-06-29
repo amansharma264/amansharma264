@@ -74,14 +74,12 @@
 
 ## 🚀 Coding Platform Stats
 
-<div align="center">
-  <a href="https://leetcode.com/amansharma264/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70" alt="LeetCode Logo"/>
-  </a>
-  <br>
-  <span style="font-size: 1.5em; font-weight: bold; color: #F89F1B;">LeetCode</span>
+<div align="center" style="margin-bottom: 1em;">
+  <span style="font-size:2.5em; font-weight:bold; color:#1BA94C; letter-spacing:2px; font-family: 'Segoe UI', 'Arial', sans-serif;">
+    LeetCode
+  </span>
   <br><br>
-  <img src="https://leetcard.jacoblin.cool/amansharma264?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+  <img src="https://leetcard.jacoblin.cool/amansharma264?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="600"/>
 </div>
 
 ### 👁️ Profile Views
