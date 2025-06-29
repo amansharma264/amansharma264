@@ -86,7 +86,6 @@
     </td>
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/amansharma264/">
-        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" alt="GeeksforGeeks"/><br/>
         <b>GeeksforGeeks</b>
       </a>
       <br>
@@ -94,7 +93,6 @@
     </td>
     <td align="center">
       <a href="https://codeforces.com/profile/amansharma264">
-        <img src="https://sta.codeforces.com/s/59547/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/><br/>
         <b>Codeforces</b>
       </a>
       <br>
