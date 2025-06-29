@@ -76,31 +76,40 @@
 
 <table>
   <tr>
-    <td align="center">
+    <!-- LeetCode Column: Big Image Card -->
+    <td align="center" width="400">
       <a href="https://leetcode.com/amansharma264/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" alt="LeetCode"/>
+        <br>
         <b>LeetCode</b>
       </a>
-      <br>
-      <img src="https://leetcard.jacoblin.cool/amansharma264" alt="LeetCode Stats" width="300"/>
+      <br><br>
+      <img src="https://leetcard.jacoblin.cool/amansharma264?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="350"/>
     </td>
-    <td align="center">
+    <!-- GeeksforGeeks Column: Stats as text only -->
+    <td align="center" width="250">
       <a href="https://www.geeksforgeeks.org/user/amansharma264/">
         <b>GeeksforGeeks</b>
       </a>
-      <br>
-      <img src="https://gfg-stats-api.herokuapp.com/?user=amansharma264" alt="GFG Stats" width="300"/>
+      <br><br>
+      <b>Stats:</b><br>
+      Problems Solved: <i>_update manually_</i> <br>
+      Rank: <i>_update manually_</i>
+      <!-- If you have a method to auto-update, replace above lines -->
     </td>
-    <td align="center">
+    <!-- Codeforces Column: Stats as text only -->
+    <td align="center" width="250">
       <a href="https://codeforces.com/profile/amansharma264">
         <b>Codeforces</b>
       </a>
-      <br>
-      <img src="https://cf-leaderboard-api.vercel.app/api/card?handle=amansharma264" alt="Codeforces Stats" width="300"/>
+      <br><br>
+      <b>Stats:</b><br>
+      Problems Solved: <i>_update manually_</i> <br>
+      Current Rating: <i>_update manually_</i>
+      <!-- If you have a method to auto-update, replace above lines -->
     </td>
   </tr>
 </table>
-
 ### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amansharma264)
