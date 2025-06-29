@@ -74,42 +74,16 @@
 
 ## 🚀 Coding Platform Stats
 
-<table>
-  <tr>
-    <!-- LeetCode Column: Big Image Card -->
-    <td align="center" width="400">
-      <a href="https://leetcode.com/amansharma264/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="50" alt="LeetCode"/>
-        <br>
-        <b>LeetCode</b>
-      </a>
-      <br><br>
-      <img src="https://leetcard.jacoblin.cool/amansharma264?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="350"/>
-    </td>
-    <!-- GeeksforGeeks Column: Stats as text only -->
-    <td align="center" width="250">
-      <a href="https://www.geeksforgeeks.org/user/amansharma264/">
-        <b>GeeksforGeeks</b>
-      </a>
-      <br><br>
-      <b>Stats:</b><br>
-      Problems Solved: <i>_update manually_</i> <br>
-      Rank: <i>_update manually_</i>
-      <!-- If you have a method to auto-update, replace above lines -->
-    </td>
-    <!-- Codeforces Column: Stats as text only -->
-    <td align="center" width="250">
-      <a href="https://codeforces.com/profile/amansharma264">
-        <b>Codeforces</b>
-      </a>
-      <br><br>
-      <b>Stats:</b><br>
-      Problems Solved: <i>_update manually_</i> <br>
-      Current Rating: <i>_update manually_</i>
-      <!-- If you have a method to auto-update, replace above lines -->
-    </td>
-  </tr>
-</table>
+<div align="center" style="margin-bottom: 1em;">
+  <a href="https://leetcode.com/amansharma264/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70" alt="LeetCode"/>
+    <br>
+    <b>LeetCode</b>
+  </a>
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/amansharma264?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
+</div>
+
 ### 👁️ Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amansharma264)
