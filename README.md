@@ -77,8 +77,7 @@
 <div align="center" style="margin-bottom: 1em;">
   <a href="https://leetcode.com/amansharma264/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="70" alt="LeetCode"/>
-    <br>
-    <b>LeetCode</b>
+    <div style="font-size:1.5em; font-weight:bold; margin-top: 0.5em; color: #F89F1B;">LeetCode</div>
   </a>
   <br><br>
   <img src="https://leetcard.jacoblin.cool/amansharma264?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" width="400"/>
