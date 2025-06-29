@@ -78,24 +78,27 @@
   <tr>
     <td align="center">
       <a href="https://leetcode.com/amansharma264/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/><br/>
+        <b>LeetCode</b>
       </a>
-      <br><b>LeetCode</b><br>
-      <img src="https://leetcard.jacoblin.cool/amansharma264" alt="LeetCode Stats"/>
+      <br>
+      <img src="https://leetcard.jacoblin.cool/amansharma264" alt="LeetCode Stats" width="300"/>
     </td>
     <td align="center">
       <a href="https://www.geeksforgeeks.org/user/amansharma264/">
-        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" alt="GeeksforGeeks"/>
+        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" alt="GeeksforGeeks"/><br/>
+        <b>GeeksforGeeks</b>
       </a>
-      <br><b>GeeksforGeeks</b><br>
-      <img src="https://gfg-stats-api.herokuapp.com/?user=amansharma264" alt="GFG Stats"/>
+      <br>
+      <img src="https://gfg-stats-api.herokuapp.com/?user=amansharma264" alt="GFG Stats" width="300"/>
     </td>
     <td align="center">
       <a href="https://codeforces.com/profile/amansharma264">
-        <img src="https://sta.codeforces.com/s/59547/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/>
+        <img src="https://sta.codeforces.com/s/59547/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/><br/>
+        <b>Codeforces</b>
       </a>
-      <br><b>Codeforces</b><br>
-      <img src="https://cf-leaderboard-api.vercel.app/api/card?handle=amansharma264" alt="Codeforces Stats"/>
+      <br>
+      <img src="https://cf-leaderboard-api.vercel.app/api/card?handle=amansharma264" alt="Codeforces Stats" width="300"/>
     </td>
   </tr>
 </table>
