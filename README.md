@@ -63,12 +63,53 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amansharma264&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansharma264&layout=compact&theme=radical" height="165"/>
 </p>
+
+---
+
+## 🚀 Coding Platform Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/amansharma264/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" alt="LeetCode"/><br/>
+        <b>LeetCode</b>
+      </a>
+      <br>
+      <img src="https://leetcard.jacoblin.cool/amansharma264" alt="LeetCode Stats"/>
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/amansharma264/">
+        <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40" alt="GFG"/><br/>
+        <b>GeeksforGeeks</b>
+      </a>
+      <br>
+      <!-- Replace the below link with a working GFG stats card if available -->
+      <img src="https://gfg-stats-api.herokuapp.com/?user=amansharma264" alt="GFG Stats"/>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/amansharma264">
+        <img src="https://sta.codeforces.com/s/59547/images/codeforces-logo-with-telegram.png" width="40" alt="Codeforces"/><br/>
+        <b>Codeforces</b>
+      </a>
+      <br>
+      <!-- Replace the below link with a working Codeforces stats card if available -->
+      <img src="https://cf-leaderboard-api.vercel.app/api/card?handle=amansharma264" alt="Codeforces Stats"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=amansharma264)
 
 ---
 
